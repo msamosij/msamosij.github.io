@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "272JBGZJ8C.tedee.mobile.dev" ],
+             "components": [
+               {
+                  "/": "*"
+               }
+             ]
+           }
+       ]
+   }
+}
