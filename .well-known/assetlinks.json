@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tedee.mobile.debug",
+    "sha256_cert_fingerprints":
+    ["0B:AB:3C:31:EE:CF:AC:E0:54:FC:83:E8:18:77:04:4E:9B:97:A1:5E:3A:C3:8B:44:93:B1:B9:61:DA:D4:1F:CC"]
+  }
+}]
